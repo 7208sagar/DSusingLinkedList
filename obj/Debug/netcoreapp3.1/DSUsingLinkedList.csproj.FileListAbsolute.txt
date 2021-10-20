@@ -1,0 +1,5 @@
+C:\Users\hp\Desktop\neww\DSUsingLinkedList\DSUsingLinkedList\obj\Debug\netcoreapp3.1\DSUsingLinkedList.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\neww\DSUsingLinkedList\DSUsingLinkedList\obj\Debug\netcoreapp3.1\DSUsingLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\neww\DSUsingLinkedList\DSUsingLinkedList\obj\Debug\netcoreapp3.1\DSUsingLinkedList.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\neww\DSUsingLinkedList\DSUsingLinkedList\obj\Debug\netcoreapp3.1\DSUsingLinkedList.AssemblyInfo.cs
+C:\Users\hp\Desktop\neww\DSUsingLinkedList\DSUsingLinkedList\obj\Debug\netcoreapp3.1\DSUsingLinkedList.csproj.CoreCompileInputs.cache
