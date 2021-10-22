@@ -3,3 +3,12 @@ C:\Users\hp\Desktop\neww\DSUsingLinkedList\DSUsingLinkedList\obj\Debug\netcoreap
 C:\Users\hp\Desktop\neww\DSUsingLinkedList\DSUsingLinkedList\obj\Debug\netcoreapp3.1\DSUsingLinkedList.AssemblyInfoInputs.cache
 C:\Users\hp\Desktop\neww\DSUsingLinkedList\DSUsingLinkedList\obj\Debug\netcoreapp3.1\DSUsingLinkedList.AssemblyInfo.cs
 C:\Users\hp\Desktop\neww\DSUsingLinkedList\DSUsingLinkedList\obj\Debug\netcoreapp3.1\DSUsingLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\neww\DSUsingLinkedList\DSUsingLinkedList\bin\Debug\netcoreapp3.1\DSUsingLinkedList.exe
+C:\Users\hp\Desktop\neww\DSUsingLinkedList\DSUsingLinkedList\bin\Debug\netcoreapp3.1\DSUsingLinkedList.deps.json
+C:\Users\hp\Desktop\neww\DSUsingLinkedList\DSUsingLinkedList\bin\Debug\netcoreapp3.1\DSUsingLinkedList.runtimeconfig.json
+C:\Users\hp\Desktop\neww\DSUsingLinkedList\DSUsingLinkedList\bin\Debug\netcoreapp3.1\DSUsingLinkedList.runtimeconfig.dev.json
+C:\Users\hp\Desktop\neww\DSUsingLinkedList\DSUsingLinkedList\bin\Debug\netcoreapp3.1\DSUsingLinkedList.dll
+C:\Users\hp\Desktop\neww\DSUsingLinkedList\DSUsingLinkedList\bin\Debug\netcoreapp3.1\DSUsingLinkedList.pdb
+C:\Users\hp\Desktop\neww\DSUsingLinkedList\DSUsingLinkedList\obj\Debug\netcoreapp3.1\DSUsingLinkedList.dll
+C:\Users\hp\Desktop\neww\DSUsingLinkedList\DSUsingLinkedList\obj\Debug\netcoreapp3.1\DSUsingLinkedList.pdb
+C:\Users\hp\Desktop\neww\DSUsingLinkedList\DSUsingLinkedList\obj\Debug\netcoreapp3.1\DSUsingLinkedList.genruntimeconfig.cache
